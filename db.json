@@ -1,4 +1,10 @@
 {
   "true": true,
-  "approvalString": "approvalString"
+  "approvalString": "approvalString",
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
 }
