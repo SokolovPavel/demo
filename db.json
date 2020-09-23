@@ -11,5 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "stringTest": 10
+  "stringTest": {     
+    "name": "stringTest" 
+  }
 }
